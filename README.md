@@ -1,5 +1,7 @@
 <p align="center"><img src="Images/naughty-logo.png" width="450"></p>
 
+[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=56f18c2c39d81d010010209b&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/56f18c2c39d81d010010209b/build/latest)
+
 **[The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)** is a list of strings which have a high probability of causing issues when used as user-input data.
 
 I have put together these strings to create **Naughty Keyboard** – a very simple iOS app that gives you access to a custom keyboard to use these strings to test your application.
