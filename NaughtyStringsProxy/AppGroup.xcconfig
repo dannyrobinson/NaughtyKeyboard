@@ -6,4 +6,4 @@
 //  Copyright © 2015 Perfectly-Cooked. All rights reserved.
 //
 
-NAUGHTYSTRINGS_BUNDLE_PREFIX = com.perfectly-cooked.NaughtyStrings
+NAUGHTYSTRINGS_BUNDLE_PREFIX = co.perch.naughtystrings
